@@ -8,8 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="spring" height="35" width="60" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
   <img align="center" alt="java" height="35" width="60" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
-  <img align="center" alt="Rafa-Python" height="25" width="65" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
 </div>
   
   ##

@@ -10,7 +10,7 @@ I'm a passionate and dedicated Back-end Engineer with a love for technology and 
 <div style="display: inline_block"><br>
   <img align="center" alt="spring" height="35" width="35" src="https://github.com/TrInfra/TrInfra/assets/90692553/4543d800-34e1-4a41-90f6-fc22f26bc66a">
   <img align="center" alt="java" height="35" width="60" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
-  <img align="center" alt="JSF" height="35" width="35" src="https://github.com/TrInfra/TrInfra/assets/90692553/da897a67-109b-4dee-a11a-68de75846fe9">
+ 
   
 </div>
 <br>

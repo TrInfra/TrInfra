@@ -1,4 +1,4 @@
-## Hello i am Nycolas Bastos, developer backend!
+## Hello i am Nycolas Bastos,  back-end Engenieer!
 - 🌱 I’m currently learning Java - SpringBoot - C# - .Net
 - 🤔 I’m looking for help with project tips to implement in my portfolio
 - 📫 How to reach me: nycolasmiguel777@gmail.com

@@ -19,10 +19,10 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 </div>
 English: </br> 
-I'm a passionate and dedicated Data Engineer with a deep love for data and technology. Currently, I'm exploring data engineering solutions using Python, SQL, and AWS, and diving into tools like PySpark and Docker to streamline data processing and ETL pipelines. Feel free to check out my projects and provide feedback on my approach to handling and analyzing data with tools such as Pandas and SQL.  </br> 
+I'm a dedicated Data Engineer with love for data and technology. Currently, I'm exploring data engineering solutions using Python, SQL, and AWS, and diving into tools like PySpark and Docker to streamline data processing and ETL pipelines. Feel free to check out my projects and provide feedback on my approach to handling and analyzing data with tools such as Pandas and SQL.  </br> 
  </br> 
 Portuguese:   </br> 
-Sou um Engenheiro de Dados apaixonado e dedicado, com um profundo amor por dados e tecnologia. Atualmente, estou explorando soluções de engenharia de dados usando Python, SQL e AWS, e mergulhando em ferramentas como PySpark e Docker para otimizar o processamento de dados e pipelines ETL. Fique à vontade para conferir meus projetos e dar feedback sobre minha abordagem no manuseio e análise de dados com ferramentas como Pandas e SQL.  
+Sou um Engenheiro de Dados dedicado, com amor por dados e tecnologia. Atualmente, estou explorando soluções de engenharia de dados usando Python, SQL e AWS, e mergulhando em ferramentas como PySpark e Docker para otimizar o processamento de dados e pipelines ETL. Fique à vontade para conferir meus projetos e dar feedback sobre minha abordagem no manuseio e análise de dados com ferramentas como Pandas e SQL.  
  </br> 
 💼 I'm currently a Data Engineer at Compass UOL
 

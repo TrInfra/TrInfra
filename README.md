@@ -9,7 +9,8 @@ I'm a passionate and dedicated Back-end Engineer with a love for technology and 
 [![My Skills](https://skillicons.dev/icons?i=git,kubernetes,linux,postgres,vscode,python,aws,docker,sqlite)](https://skillicons.dev)
   
 
-
+## Github Stats 🐱
+![Nycolas Bastos Graph](https://github-readme-activity-graph.vercel.app/graph?username=TrInfra&custom_title=%Nycolas%20Miguel%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 ## Statistics:
 <div align="center">
   <img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=TrInfra&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

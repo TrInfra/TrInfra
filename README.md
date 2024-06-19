@@ -1,9 +1,32 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00b2,100:ff00b2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5D3FD3,100:5D3FD3&height=120&section=header"/>
 
-## Hello i am Nycolas Bastos,  back-end Engenieer!
-I'm a passionate and dedicated Back-end Engineer with a love for technology and computers. Currently, I'm studying microservices applications using Java and Spring Boot, as well as delving into DevOps tools to enhance my daily life as a developer. Feel free to check out my projects and provide feedback.
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b>Nycolas</b>
+        </samp>
+</h3>
 
-<img align="center" alt="java" height="10" width="1080" src="https://github.com/TrInfra/TrInfra/assets/90692553/a010815a-8a94-4685-87cb-73a2f2889370">
+<p align="center"> 
+  <samp>
+    「 I am a data engineer from <b>Brazil</b> 」
+    <br>
+  </samp>
+</p>
+
+# About me   
+ <div>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+</div>
+English: </br> 
+I'm a passionate and dedicated Data Engineer with a deep love for data and technology. Currently, I'm exploring data engineering solutions using Python, SQL, and AWS, and diving into tools like PySpark and Docker to streamline data processing and ETL pipelines. Feel free to check out my projects and provide feedback on my approach to handling and analyzing data with tools such as Pandas and SQL.  </br> 
+ </br> 
+Portuguese:   </br> 
+Sou um Engenheiro de Dados apaixonado e dedicado, com um profundo amor por dados e tecnologia. Atualmente, estou explorando soluções de engenharia de dados usando Python, SQL e AWS, e mergulhando em ferramentas como PySpark e Docker para otimizar o processamento de dados e pipelines ETL. Fique à vontade para conferir meus projetos e dar feedback sobre minha abordagem no manuseio e análise de dados com ferramentas como Pandas e SQL.  
+ </br> 
+💼 I'm currently a Data Engineer at Compass UOL
+
+
 
 ## My Stacks
 [![My Skills](https://skillicons.dev/icons?i=git,kubernetes,linux,postgres,vscode,python,aws,docker,sqlite)](https://skillicons.dev)
@@ -19,4 +42,4 @@ I'm a passionate and dedicated Back-end Engineer with a love for technology and 
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00b2,100:ff00b2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5D3FD3,100:5D3FD3&height=120&section=footer"/>

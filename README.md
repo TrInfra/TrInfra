@@ -38,7 +38,7 @@ Sou um Engenheiro de Dados dedicado, com amor por dados e tecnologia. Atualmente
 <div align="center">
   <img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=TrInfra&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrInfra&layout=compact&langs_count=7&theme=radical"/>
-  <img align="left" height="200px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=TrInfra&amp;theme=radical"/>
+  <img align="left" height="200px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=TrInfra&amp;theme=radical&hide=css,jupyter,html"/>
 </div>
 
 

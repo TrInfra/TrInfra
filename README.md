@@ -24,7 +24,10 @@ I'm a dedicated Data Engineer with love for data and technology. Currently, I'm 
 Portuguese:   </br> 
 Sou um Engenheiro de Dados dedicado, com amor por dados e tecnologia. Atualmente, estou explorando soluções de engenharia de dados usando Python, SQL e AWS, e mergulhando em ferramentas como PySpark e Docker para otimizar o processamento de dados e pipelines ETL. Fique à vontade para conferir meus projetos e dar feedback sobre minha abordagem no manuseio e análise de dados com ferramentas como Pandas e SQL.  
  </br> 
-💼 I'm currently a Data Engineer at Compass UOL
+ </br> 
+ </br> 
+ 
+💼 Data Engineer at Compass UOL
 
 
 

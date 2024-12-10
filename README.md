@@ -49,7 +49,7 @@
 ### **Estagiário de Engenharia de Dados** | abril 2024 - Setembro 2024
 *Compass UOL | Compasso UOL (UOL DIVEO)*
 
-🌎 *Remoto | Rio Grande do Sul, Brasil*
+🌎 *Remoto*
 - Programa de Treinamento de Projetos de Engenharia de Dados;
 - Criação de data lakes, consumo de APIs, ingestão, processamento e análise de dados.
 
